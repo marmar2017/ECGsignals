@@ -22,11 +22,12 @@ cd dataVisulaziation/ECGapp
 `
  npm install 
  `
- in order to install the pakages after finishing instulation you may run 
+ in order to install the pakages.
+ After finishing instulation you may run 
 
 `npm run dev` 
 
-open 
+open:
 `http://localhost:5173/` 
 
 go to ECG chart and you could explore the tool. 
