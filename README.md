@@ -14,19 +14,20 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ## how to run this code 
 go to 
-¨¨
+`
 cd dataVisulaziation/ECGapp
-¨¨
+`
 
  and run 
- ¨¨
+`
  npm install 
- ¨¨
+ `
  in order to install the pakages after finishing instulation you may run 
- 
- npm run dev 
 
-open http://localhost:5173/ 
+`npm run dev` 
+
+open 
+`http://localhost:5173/` 
 
 go to ECG chart and you could explore the tool. 
 
